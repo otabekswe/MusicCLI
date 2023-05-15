@@ -1,7 +1,7 @@
 import os
-import requests
 from argparse import ArgumentParser
 
+import requests
 from crawler import search, _download_link
 
 
