@@ -4,7 +4,7 @@ MusicCLI is a user-friendly command-line interface that lets you download your f
 ## Installing
 
 ```bash
-pip install musiccli
+pip install MusicCLI
 ```
 
 ## Usage
