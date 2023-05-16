@@ -4,16 +4,13 @@ MusicCLI is a user-friendly command-line interface that lets you download your f
 ## How to use
 
 ```bash
-# Clone this repository
-$ git clone https://github.com/otabeknurmatov/MusicCLI
+# Install package
+$ pip install musiccli
 
-# Go into repository
-$ cd MusicCLI
+# If you need assistance, type in the following command.
+$ python -m musiccli -h
 
-# Install dependencies
-$ pip install -r requirements.txt
-
-# Run the app
-$ python main.py SONG_NAME
+# Easily find your favorite music by simply typing in your search query:
+$ python -m musiccli [SONG_HERE]
 
 # Simply select the desired song by choosing its corresponding number and voila! You're all set!
