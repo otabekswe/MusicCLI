@@ -2,7 +2,7 @@ import os
 from argparse import ArgumentParser
 
 import requests
-from crawler import search, _download_link
+from .crawler import search, _download_link
 
 
 download_path = os.path.join(os.environ['USERPROFILE'], 'Desktop') if os.name == 'nt' else os.path.join(os.path.expanduser('~'), 'Desktop')
