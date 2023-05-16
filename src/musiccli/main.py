@@ -8,7 +8,7 @@ from crawler import search, _download_link
 download_path = os.path.join(os.environ['USERPROFILE'], 'Desktop') if os.name == 'nt' else os.path.join(os.path.expanduser('~'), 'Desktop')
 
 
-def main() -> None:
+def run_main() -> None:
     desc = "MusicCLI is a command-line interface application that allows users to search and download music from a " \
            "variety of online sources. With MusicCLI, users can easily find and download their favorite songs to their"\
            " Desktop folder."
@@ -40,6 +40,3 @@ def main() -> None:
 
     print("All done!")
 
-
-if __name__ == "__main__":
-    main()
