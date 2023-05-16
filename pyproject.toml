@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "musiccli"
-version = "1.0"
+version = "1.1.0"
 description = "MusicCLI is a user-friendly command-line interface that lets you download your favorite music directly from your terminal to Desktop."
 readme = "README.md"
 authors = [{ name = "Otabek Nurmatov", email = "mrotabek17@gmail.com"  }]
