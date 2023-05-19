@@ -1,5 +1,7 @@
 <h1 align="center"><b>MusicCLI</b></h1> 
 
+![Music CLI logo](./logo.jpeg)
+
 Discover the power of MusicCLI, an intuitive command-line interface that enables seamless music downloads from your terminal straight to your Desktop.
 
 ### Installation
