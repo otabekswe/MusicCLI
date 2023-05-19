@@ -1,6 +1,7 @@
 import sys
+from asyncio import run
 
-from .main import run_main
+from .main import main
 
 if __name__ == "__main__":
-    run_main()
+    run(main())

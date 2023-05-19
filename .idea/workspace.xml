@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5b6c437c-1ab6-458a-9804-724aef12adac" name="Changes" comment="" />
+    <list default="true" id="5b6c437c-1ab6-458a-9804-724aef12adac" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyproject.toml" beforeDir="false" afterPath="$PROJECT_DIR$/pyproject.toml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/musiccli/__main__.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/musiccli/__main__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/musiccli/crawler.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/musiccli/crawler.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/musiccli/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/musiccli/main.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -80,6 +86,13 @@
       <workItem from="1684230719547" duration="928000" />
       <workItem from="1684231652162" duration="371000" />
       <workItem from="1684237057784" duration="358000" />
+      <workItem from="1684248955449" duration="5683000" />
+      <workItem from="1684332609772" duration="5021000" />
+      <workItem from="1684342369396" duration="4302000" />
+      <workItem from="1684508695074" duration="274000" />
+      <workItem from="1684509932927" duration="5000" />
+      <workItem from="1684515293355" duration="26000" />
+      <workItem from="1684518481636" duration="1981000" />
     </task>
     <servers />
   </component>
