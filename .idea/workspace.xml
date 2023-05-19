@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5b6c437c-1ab6-458a-9804-724aef12adac" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pyproject.toml" beforeDir="false" afterPath="$PROJECT_DIR$/pyproject.toml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/musiccli/__main__.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/musiccli/__main__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/musiccli/crawler.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/musiccli/crawler.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/musiccli/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/musiccli/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -92,7 +88,7 @@
       <workItem from="1684508695074" duration="274000" />
       <workItem from="1684509932927" duration="5000" />
       <workItem from="1684515293355" duration="26000" />
-      <workItem from="1684518481636" duration="1981000" />
+      <workItem from="1684518481636" duration="2282000" />
     </task>
     <servers />
   </component>
