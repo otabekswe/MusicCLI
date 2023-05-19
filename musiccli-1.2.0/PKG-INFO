@@ -1,0 +1,31 @@
+Metadata-Version: 2.1
+Name: musiccli
+Version: 1.2.0
+Summary: MusicCLI is a user-friendly command-line interface that lets you download your favorite music directly from your terminal to Desktop.
+Author-email: Otabek Nurmatov <mrotabek17@gmail.com>
+Project-URL: Homepage, https://github.com/otabeknurmatov/MusicCLI
+Keywords: MusicCLI,mcli,Music Downloader,Terminal Music
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 3
+Requires-Python: >=3.8
+Description-Content-Type: text/markdown
+Provides-Extra: dev
+License-File: LICENSE.txt
+
+<h1 align="center"><b>MusicCLI</b></h1> 
+MusicCLI is a user-friendly command-line interface that lets you download your favorite music directly from your terminal to Desktop.
+
+## How to use
+
+```bash
+# Install package
+$ pip install musiccli
+
+# If you need assistance, type in the following command.
+$ python -m musiccli -h
+
+# Easily find your favorite music by simply typing in your search query:
+$ python -m musiccli [SONG_HERE]
+
+# Simply select the desired song by choosing its corresponding number and voila! You're all set!

@@ -1,0 +1,33 @@
+[build-system]
+requires = ["setuptools>=61.0.0", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "musiccli"
+version = "1.2.0"
+description = "MusicCLI is a user-friendly command-line interface that lets you download your favorite music directly from your terminal to Desktop."
+readme = "README.md"
+authors = [{ name = "Otabek Nurmatov", email = "mrotabek17@gmail.com"  }]
+license = { file = "LICENSE" }
+classifiers = [
+    "License :: OSI Approved :: MIT License",
+    "Programming Language :: Python",
+    "Programming Language :: Python :: 3",
+]
+keywords = ["MusicCLI", "mcli", "Music Downloader", "Terminal Music"]
+dependencies = [
+    "requests >= 2.28.2",
+    "bs4 >= 0.0.1",
+    "lxml",
+    'beautifulsoup4 >= 4.12.2',
+]
+requires-python = ">=3.8"
+
+[project.optional-dependencies]
+dev = ["sys", "requests", "lxml", "pytest", "bs4"]
+
+[project.urls]
+Homepage = "https://github.com/otabeknurmatov/MusicCLI"
+
+[project.scripts]
+musiccli = "musiccli.__main__:main"
