@@ -21,5 +21,4 @@ case "$SHELL" in
     ;;
 esac
 
-
-echo "MusicCLI has been installed successfully. You can now use 'mcli [SONG_NAME]' to run the command."
+echo "MusicCLI has been installed successfully. \nYou can now use 'mcli [SONG_NAME]' to run the command."
