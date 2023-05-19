@@ -9,7 +9,7 @@ Discover the power of MusicCLI, an intuitive command-line interface that enables
 To install MusicCLI, run the following command in your terminal:
 
 ```bash
-curl -sSL https://raw.githubusercontent.com/otabeknurmatov/MusicCLI/main/install.sh | sudo
+curl -sSL https://raw.githubusercontent.com/otabeknurmatov/MusicCLI/main/install.sh | bash
 ```
 
 
