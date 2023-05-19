@@ -4,16 +4,13 @@ MusicCLI is a user-friendly command-line interface that lets you download your f
 ## How to use
 
 ```bash
-# Clone this repository
-$ git clone https://github.com/otabeknurmatov/MusicCLI
+# To install MusicCLI via pip:
+$ pip install musiccli
 
-# Go into repository
-$ cd MusicCLI
+# Run the following command to use it 
+$ python -m musiccli [SONG_NAME_HERE]
 
-# Install dependencies
-$ pip install -r requirements.txt
-
-# Run the app
-$ python main.py SONG_NAME
+# Replace [SONG_NAME] with the desired song name
+$ python -m musiccli Shawn Mendes
 
 # Simply select the desired song by choosing its corresponding number and voila! You're all set!
