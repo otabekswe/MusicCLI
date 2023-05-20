@@ -15,7 +15,7 @@ curl -sSL https://raw.githubusercontent.com/otabeknurmatov/MusicCLI/main/install
 # For bash
 curl -sSL https://raw.githubusercontent.com/otabeknurmatov/MusicCLI/main/install.sh | bash
 
-# With Sudo type either bash or zsh 
+# With sudo, use either bash or zsh.
 curl -sSL https://raw.githubusercontent.com/otabeknurmatov/MusicCLI/main/install.sh | sudo bash
 ```
 
