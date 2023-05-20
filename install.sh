@@ -1,7 +1,8 @@
-if pip show musiccli &> /dev/null; then
-    echo "Performing package update.."
-    pip install --upgrade musiccli
-else:
+if pip show musiccli &> /dev/null; 
+then
+    echo "Performing package update..."
+    pip install --upgrade musiccli    
+else
     echo "Initiating package installation..."
     pip install musiccli
 fi
