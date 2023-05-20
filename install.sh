@@ -1,3 +1,10 @@
+if pip show musiccli &> /dev/null; then
+    pip uninstall -y musiccli 
+    echo "Performing package update.."
+else:
+    echo "Initiating package installation..."
+fi
+
 pip install musiccli
 
 case "$SHELL" in
